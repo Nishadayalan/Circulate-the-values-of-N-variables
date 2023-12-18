@@ -6,18 +6,17 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1:
-write your name and register name
+Program the code with def circulate.
 ### Step 2: 
-define a function
+Get the two value from the user for the number of rotation.
 ### Step 3: 
-Get the value from the user for the number of rotation
+Print the circulating values.
 ### Step 4: 
-Using the slicing concept rotate the list
-
+Using the slicing concept rotate the list.
 ### Step 5: 
-give the print statement
+Give print statement.
 ### Step 6: 
-execute the program
+Execute the program.
 ## Program:
 ```
 #Program to circulate N values.
@@ -32,7 +31,7 @@ def circulate():
 
 
 ## Output:
-![Alt text](<circulate n variables (2).png>)
+![Alt text](Nvariables.png)
 
 ## Result:
 This program is successfully executed to circulte n variables.
