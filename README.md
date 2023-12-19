@@ -31,7 +31,7 @@ def circulate():
 
 
 ## Output:
-![Alt text](Nvariables.png)
+![Alt text](nvar.png)
 
 ## Result:
 This program is successfully executed to circulte n variables.
